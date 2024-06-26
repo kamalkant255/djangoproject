@@ -3,4 +3,4 @@ from rest_framework.response import Response
 
 class HelloWorldViewSet(viewsets.ViewSet):
     def list(self, request):
-        return Response({'message': 'Hello jkjk, kamalkant!'})
+        return Response({'message': 'Hello ggg, kamalkant!'})
